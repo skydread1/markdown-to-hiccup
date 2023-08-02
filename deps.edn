@@ -7,5 +7,5 @@
    com.bhauman/figwheel-main {:mvn/version "0.2.0"}
    markdown-clj {:mvn/version "1.0.7"}
    proto-repl {:mvn/version "0.3.1"}
-   hickory {:mvn/version "0.7.1"}}
+   hickory {:mvn/version "0.7.3"}}
  :paths ["src/" "test/"]}
