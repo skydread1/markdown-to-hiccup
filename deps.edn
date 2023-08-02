@@ -7,5 +7,6 @@
    com.bhauman/figwheel-main {:mvn/version "0.2.0"}
    markdown-clj {:mvn/version "1.0.7"}
    proto-repl {:mvn/version "0.3.1"}
-   org.clj-commons/hickory {:mvn/version "0.7.2"}}
+   org.clj-commons/hickory {:git/url "https://github.com/clj-commons/hickory.git" ;; commit after support for nodejs
+                            :git/sha "11f9f69f8f9d75897f4f035eb7c9df8185ad852e"}}
  :paths ["src/" "test/"]}
